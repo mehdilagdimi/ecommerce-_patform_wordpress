@@ -1,0 +1,2 @@
+2022-05-23T08:05:02+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\wpforms-lite\src\Admin\Education\Fields.php on line 218
+

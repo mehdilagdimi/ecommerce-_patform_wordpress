@@ -1,0 +1,2 @@
+2022-05-22T16:03:00+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress_ecommerce\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-settings.php on line 478
+
